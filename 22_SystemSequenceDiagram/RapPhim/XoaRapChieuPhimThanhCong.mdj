@@ -516,7 +516,7 @@
 												"$ref": "AAAAAAGG5LcqRkzkCiE="
 											},
 											"edgePosition": 1,
-											"text": "DisplayThreaterManagerment"
+											"text": "displayThreaterManagerment"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -641,7 +641,7 @@
 												"$ref": "AAAAAAGG5LgtRU0G8Uc="
 											},
 											"edgePosition": 1,
-											"text": "DeleteThreater"
+											"text": "handleDelete"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -736,7 +736,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5LZk8UyDJWQ="
 							},
-							"name": "DisplayThreaterManagerment",
+							"name": "displayThreaterManagerment",
 							"source": {
 								"$ref": "AAAAAAGG5LZwhkyYIKw="
 							},
@@ -751,7 +751,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5LZk8UyDJWQ="
 							},
-							"name": "DeleteThreater",
+							"name": "handleDelete",
 							"source": {
 								"$ref": "AAAAAAGG5LZwhkyYIKw="
 							},

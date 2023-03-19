@@ -513,7 +513,7 @@
 												"$ref": "AAAAAAGG5LKx8LNWjsQ="
 											},
 											"edgePosition": 1,
-											"text": "DisplayCustomerManagerment"
+											"text": "displayCustomerManagerment"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -638,7 +638,7 @@
 												"$ref": "AAAAAAGG5LNgsLN3t4w="
 											},
 											"edgePosition": 1,
-											"text": "DeleteCustomer"
+											"text": "handleDelete"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -733,7 +733,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5LD0U7L2WCM="
 							},
-							"name": "DisplayCustomerManagerment",
+							"name": "displayCustomerManagerment",
 							"source": {
 								"$ref": "AAAAAAGG5LEA/rMLyvI="
 							},
@@ -748,7 +748,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5LD0U7L2WCM="
 							},
-							"name": "DeleteCustomer",
+							"name": "handleDelete",
 							"source": {
 								"$ref": "AAAAAAGG5LEA/rMLyvI="
 							},

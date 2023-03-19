@@ -132,10 +132,46 @@
 									"model": {
 										"$ref": "AAAAAAGG5dTM28u6rls="
 									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGG+vbzIpyxOH0=",
+											"_parent": {
+												"$ref": "AAAAAAGG5dTM3MvCiCE="
+											},
+											"model": {
+												"$ref": "AAAAAAGG5dTtNcv3QNo="
+											},
+											"font": "Arial;13;0",
+											"left": 5,
+											"top": 5,
+											"width": 74.84521484375,
+											"height": 13,
+											"text": "+Role1: Actor",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGG+vbzI5y01qE=",
+											"_parent": {
+												"$ref": "AAAAAAGG5dTM3MvCiCE="
+											},
+											"model": {
+												"$ref": "AAAAAAGG5dUHMswXuL0="
+											},
+											"font": "Arial;13;0",
+											"left": 5,
+											"top": 20,
+											"width": 74.84521484375,
+											"height": 13,
+											"text": "+Role2",
+											"horizontalAlignment": 0
+										}
+									],
 									"visible": false,
 									"font": "Arial;13;0",
-									"width": 10,
-									"height": 10
+									"width": 84.84521484375,
+									"height": 38
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -506,7 +542,7 @@
 														"$ref": "AAAAAAGG5dXsbsxKiC4="
 													},
 													"edgePosition": 1,
-													"text": "DisplayHomePage"
+													"text": "displayHomePage"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -631,7 +667,7 @@
 														"$ref": "AAAAAAGG5dkHq8xphFo="
 													},
 													"edgePosition": 1,
-													"text": "BookTicket"
+													"text": "bookTicket"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -726,7 +762,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGG5dTdWsvkUYE="
 									},
-									"name": "DisplayHomePage",
+									"name": "displayHomePage",
 									"source": {
 										"$ref": "AAAAAAGG5dTtNcv4mWg="
 									},
@@ -741,7 +777,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGG5dTdWsvkUYE="
 									},
-									"name": "BookTicket",
+									"name": "bookTicket",
 									"source": {
 										"$ref": "AAAAAAGG5dTtNcv4mWg="
 									},

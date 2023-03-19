@@ -2359,7 +2359,7 @@
 												"$ref": "AAAAAAGGxYC7dmY2yAc="
 											},
 											"edgePosition": 1,
-											"text": "DisplayThreaterManagement"
+											"text": "displayThreaterManagement"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2485,7 +2485,7 @@
 												"$ref": "AAAAAAGGxYJZIGZjsLk="
 											},
 											"edgePosition": 1,
-											"text": "AddNewThreater"
+											"text": "handleAdd"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2578,7 +2578,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxX658mVjWk0="
 							},
-							"name": "DisplayThreaterManagement",
+							"name": "displayThreaterManagement",
 							"source": {
 								"$ref": "AAAAAAGGxX8jkGXaxR0="
 							},
@@ -2593,7 +2593,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxX658mVjWk0="
 							},
-							"name": "AddNewThreater",
+							"name": "handleAdd",
 							"source": {
 								"$ref": "AAAAAAGGxX8jkGXaxR0="
 							},

@@ -547,7 +547,7 @@
 												"$ref": "AAAAAAGGxVposcCzHdU="
 											},
 											"edgePosition": 1,
-											"text": "DisplayFilmManagerment"
+											"text": "displayFilmManagerment"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -687,7 +687,7 @@
 												"$ref": "AAAAAAGGxWc+WsFuOPA="
 											},
 											"edgePosition": 1,
-											"text": "SelectTheater"
+											"text": "selectTheater"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -799,7 +799,7 @@
 												"$ref": "AAAAAAGGxWnMrMGLxKw="
 											},
 											"edgePosition": 1,
-											"text": "SelectedTheater"
+											"text": "selectedTheater"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1130,7 +1130,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxVK2ab/XbfA="
 							},
-							"name": "DisplayFilmManagerment",
+							"name": "displayFilmManagerment",
 							"source": {
 								"$ref": "AAAAAAGGxVK9Y7/miKQ="
 							},
@@ -1145,7 +1145,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxVK2ab/XbfA="
 							},
-							"name": "SelectTheater",
+							"name": "selectTheater",
 							"source": {
 								"$ref": "AAAAAAGGxVK9Y7/miKQ="
 							},
@@ -1160,7 +1160,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxVK2ab/XbfA="
 							},
-							"name": "SelectedTheater",
+							"name": "selectedTheater",
 							"source": {
 								"$ref": "AAAAAAGGxVab98AmwYw="
 							},

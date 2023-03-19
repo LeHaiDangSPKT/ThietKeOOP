@@ -1515,7 +1515,7 @@
 												"$ref": "AAAAAAGGxXjO13ZwnH8="
 											},
 											"edgePosition": 1,
-											"text": "DisplayFilmManagerment"
+											"text": "displayFilmManagerment"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1641,7 +1641,7 @@
 												"$ref": "AAAAAAGGxXpPfXacn+c="
 											},
 											"edgePosition": 1,
-											"text": "DisplayDeleteForm"
+											"text": "displayDeleteForm"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1767,7 +1767,7 @@
 												"$ref": "AAAAAAGGxXr3B3a/ogc="
 											},
 											"edgePosition": 1,
-											"text": "DeleteFilm"
+											"text": "handleDelete"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1860,7 +1860,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxXT8KHXD7iw="
 							},
-							"name": "DisplayFilmManagerment",
+							"name": "displayFilmManagerment",
 							"source": {
 								"$ref": "AAAAAAGGxXUjE3XSPks="
 							},
@@ -1875,7 +1875,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxXT8KHXD7iw="
 							},
-							"name": "DisplayDeleteForm",
+							"name": "displayDeleteForm",
 							"source": {
 								"$ref": "AAAAAAGGxXUjE3XSPks="
 							},
@@ -1890,7 +1890,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGGxXT8KHXD7iw="
 							},
-							"name": "DeleteFilm",
+							"name": "handleDelete",
 							"source": {
 								"$ref": "AAAAAAGGxXUjE3XSPks="
 							},

@@ -506,17 +506,17 @@
 												"$ref": "AAAAAAGG5L+Pr6EJLNE="
 											},
 											"font": "Arial;13;0",
-											"left": 650,
-											"top": 176,
+											"left": 648,
+											"top": 175,
 											"width": 165.4453125,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
+											"alpha": -4.514994382073455,
+											"distance": 10.198039027185569,
 											"hostEdge": {
 												"$ref": "AAAAAAGG5L+PsKEK4aE="
 											},
 											"edgePosition": 1,
-											"text": "DisplayFilmManagerment"
+											"text": "displayFilmManagerment"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -631,9 +631,9 @@
 												"$ref": "AAAAAAGG5MAm86EqrHc="
 											},
 											"font": "Arial;13;0",
-											"left": 699,
+											"left": 692,
 											"top": 421,
-											"width": 66.46630859375,
+											"width": 80.9580078125,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -641,7 +641,7 @@
 												"$ref": "AAAAAAGG5MAm86ErzPE="
 											},
 											"edgePosition": 1,
-											"text": "UpdateFilm"
+											"text": "handleUpdate"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -736,7 +736,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5L4dOKCrL4U="
 							},
-							"name": "DisplayFilmManagerment",
+							"name": "displayFilmManagerment",
 							"source": {
 								"$ref": "AAAAAAGG5L4sOqDA2rg="
 							},
@@ -751,7 +751,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5L4dOKCrL4U="
 							},
-							"name": "UpdateFilm",
+							"name": "handleUpdate",
 							"source": {
 								"$ref": "AAAAAAGG5L4sOqDA2rg="
 							},

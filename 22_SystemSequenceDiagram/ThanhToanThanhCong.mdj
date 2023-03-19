@@ -132,10 +132,46 @@
 									"model": {
 										"$ref": "AAAAAAGG5dsXvKQPVwo="
 									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGG+vkGDf8hf3A=",
+											"_parent": {
+												"$ref": "AAAAAAGG5dsXvaQXAHg="
+											},
+											"model": {
+												"$ref": "AAAAAAGG5ds066RMCPQ="
+											},
+											"font": "Arial;13;0",
+											"left": 5,
+											"top": 5,
+											"width": 74.84521484375,
+											"height": 13,
+											"text": "+Role1: Actor",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGG+vkGDv8kX+A=",
+											"_parent": {
+												"$ref": "AAAAAAGG5dsXvaQXAHg="
+											},
+											"model": {
+												"$ref": "AAAAAAGG5dtGiaRsOYo="
+											},
+											"font": "Arial;13;0",
+											"left": 5,
+											"top": 20,
+											"width": 74.84521484375,
+											"height": 13,
+											"text": "+Role2",
+											"horizontalAlignment": 0
+										}
+									],
 									"visible": false,
 									"font": "Arial;13;0",
-									"width": 10,
-									"height": 10
+									"width": 84.84521484375,
+									"height": 38
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -506,7 +542,7 @@
 														"$ref": "AAAAAAGG5dwlPqS4qiY="
 													},
 													"edgePosition": 1,
-													"text": "DisplayPayment"
+													"text": "displayPayment"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -622,16 +658,16 @@
 													},
 													"font": "Arial;13;0",
 													"left": 651,
-													"top": 354,
+													"top": 352,
 													"width": 59.97900390625,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": 1.5707954934615633,
+													"distance": 12,
 													"hostEdge": {
 														"$ref": "AAAAAAGG5dzxN6Ta2bg="
 													},
 													"edgePosition": 1,
-													"text": "Pay"
+													"text": "pay"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -726,7 +762,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGG5dsncqQ59kA="
 									},
-									"name": "DisplayPayment",
+									"name": "displayPayment",
 									"source": {
 										"$ref": "AAAAAAGG5ds066RNnt0="
 									},
@@ -741,7 +777,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGG5dsncqQ59kA="
 									},
-									"name": "Pay",
+									"name": "pay",
 									"source": {
 										"$ref": "AAAAAAGG5ds066RNnt0="
 									},

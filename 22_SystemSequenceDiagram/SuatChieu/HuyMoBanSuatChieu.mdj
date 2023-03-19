@@ -132,10 +132,46 @@
 									"model": {
 										"$ref": "AAAAAAGG5ceB7XaFawE="
 									},
+									"subViews": [
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGG+vU5ipy6GoQ=",
+											"_parent": {
+												"$ref": "AAAAAAGG5ceB7naNEQ8="
+											},
+											"model": {
+												"$ref": "AAAAAAGG5ce853bCO+U="
+											},
+											"font": "Arial;13;0",
+											"left": 5,
+											"top": 5,
+											"width": 74.84521484375,
+											"height": 13,
+											"text": "+Role1: Actor",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGG+vU5jJy9P4s=",
+											"_parent": {
+												"$ref": "AAAAAAGG5ceB7naNEQ8="
+											},
+											"model": {
+												"$ref": "AAAAAAGG5cfUjXbiYrc="
+											},
+											"font": "Arial;13;0",
+											"left": 5,
+											"top": 20,
+											"width": 74.84521484375,
+											"height": 13,
+											"text": "+Role2",
+											"horizontalAlignment": 0
+										}
+									],
 									"visible": false,
 									"font": "Arial;13;0",
-									"width": 10,
-									"height": 10
+									"width": 84.84521484375,
+									"height": 38
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -503,7 +539,7 @@
 														"$ref": "AAAAAAGG5chmQ3cOPwo="
 													},
 													"edgePosition": 1,
-													"text": "DisplayShowtimesManagerment"
+													"text": "displayShowtimesManagerment"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -628,7 +664,7 @@
 														"$ref": "AAAAAAGG5ckaF3cwkxE="
 													},
 													"edgePosition": 1,
-													"text": "AddNewShowtime"
+													"text": "handleAdd"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -824,7 +860,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGG5celk3avefQ="
 									},
-									"name": "DisplayShowtimesManagerment",
+									"name": "displayShowtimesManagerment",
 									"source": {
 										"$ref": "AAAAAAGG5ce86HbDRh8="
 									},
@@ -839,7 +875,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGG5celk3avefQ="
 									},
-									"name": "AddNewShowtime",
+									"name": "handleAdd",
 									"source": {
 										"$ref": "AAAAAAGG5ce86HbDRh8="
 									},

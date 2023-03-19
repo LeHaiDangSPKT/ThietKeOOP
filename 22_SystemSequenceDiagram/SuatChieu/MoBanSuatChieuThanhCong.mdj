@@ -513,7 +513,7 @@
 												"$ref": "AAAAAAGG5boqKd8WQ0Q="
 											},
 											"edgePosition": 1,
-											"text": "DisplayShowtimesManagerment"
+											"text": "displayShowtimesManagerment"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -638,7 +638,7 @@
 												"$ref": "AAAAAAGG5cSk2N9CObE="
 											},
 											"edgePosition": 1,
-											"text": "AddNewShowtime"
+											"text": "handleAdd"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -733,7 +733,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5blO/96X450="
 							},
-							"name": "DisplayShowtimesManagerment",
+							"name": "displayShowtimesManagerment",
 							"source": {
 								"$ref": "AAAAAAGG5bloCt6s/eY="
 							},
@@ -748,7 +748,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5blO/96X450="
 							},
-							"name": "AddNewShowtime",
+							"name": "handleAdd",
 							"source": {
 								"$ref": "AAAAAAGG5bloCt6s/eY="
 							},

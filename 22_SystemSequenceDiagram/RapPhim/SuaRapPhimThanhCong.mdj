@@ -516,7 +516,7 @@
 												"$ref": "AAAAAAGG5Lpw5wOLZv0="
 											},
 											"edgePosition": 1,
-											"text": "DisplayThreaterManagerment"
+											"text": "displayThreaterManagerment"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -641,7 +641,7 @@
 												"$ref": "AAAAAAGG5Lvg3gOsAKY="
 											},
 											"edgePosition": 1,
-											"text": "UpdateThreater"
+											"text": "handleUpdate"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -736,7 +736,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5Lm+FwMqDp8="
 							},
-							"name": "DisplayThreaterManagerment",
+							"name": "displayThreaterManagerment",
 							"source": {
 								"$ref": "AAAAAAGG5LnMzAM/amU="
 							},
@@ -751,7 +751,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG5Lm+FwMqDp8="
 							},
-							"name": "UpdateThreater",
+							"name": "handleUpdate",
 							"source": {
 								"$ref": "AAAAAAGG5LnMzAM/amU="
 							},
