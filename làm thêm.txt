@@ -1,0 +1,1 @@
+- code thêm check trùng tên (đã tồn tại) ở backend trong chức năng sửa phim và sửa rạp chiếu phim

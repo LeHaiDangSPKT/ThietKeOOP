@@ -341,14 +341,14 @@
 											"left": 604,
 											"top": 105,
 											"width": 1,
-											"height": 512
+											"height": 552
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 552,
 									"top": 40,
 									"width": 104.62451171875,
-									"height": 577,
+									"height": 617,
 									"stereotypeDisplay": "icon",
 									"nameCompartment": {
 										"$ref": "AAAAAAGG5L4sOqDCovo="
@@ -458,14 +458,14 @@
 											"left": 860,
 											"top": 80,
 											"width": 1,
-											"height": 537
+											"height": 577
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 824,
 									"top": 40,
 									"width": 72.736328125,
-									"height": 577,
+									"height": 617,
 									"nameCompartment": {
 										"$ref": "AAAAAAGG5L4/gKDi3co="
 									},
@@ -481,7 +481,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 176,
-									"top": 152,
+									"top": 120,
 									"width": 337,
 									"height": 144,
 									"text": "1.Sau khi đăng nhập với tài khoản admin, admin chọn chức năng quản lý phim trên thanh header hoặc ô lối tắt ở trang chủ Admin.\n2.Hệ thống hiển thị trang “Quản lý phim” gồm bên trên là một select danh sách các rạp phim hiện có, mặc định sẽ có một rạp nào đó và bảng danh sách các phim hiện đã có sẵn ở rạp tương ứng. Bên dưới là form thông tin chi tiết về một phim nào đó, mặc định sẽ có phim đầu tiên của rạp tương ứng của select phía trên và form này ở chế độ Read-only."
@@ -606,10 +606,135 @@
 									},
 									"font": "Arial;13;0",
 									"left": 176,
-									"top": 344,
+									"top": 416,
 									"width": 337,
-									"height": 262,
-									"text": "3.Ở form bên dưới có nút “Sửa thông tin”, nhấn vào nút này form thông tin sẽ bỏ chế độ Read-only, đồng thời hiện thêm nút “Huỷ” và “Cập nhật”.\n4.Admin thay đổi thông tin và không được bỏ trống bất kỳ trường dữ liệu nào gồm: \n      + Tên phim, mô tả, thời lượng, link trailer và chọn rạp phim mà phim chuẩn bị chỉnh sửa có thể chiếu.\n       + Ảnh: phải chọn ảnh JPG hoặc PNG\n       + Thể loại: (phải bao gồm kí tự ‘,’. Ví dụ: hành động, trinh thám => Có hai thể loại hành động và trinh thám hoặc tình cảm, => Có một thể loại là tình cảm)\n       + Ngày bắt đầu có thể lên lịch chiếu phim: hệ thống đã ẩn các ngày trước ngày hiện tại\n       + Ngày kết thúc: phải sau ngày bắt đầu.\n5.Admin nhấn nút “Cập nhật”.\n6.Hệ thống thông báo cập nhật thành công, phim mới cập nhật sẽ được cập nhật trên bảng danh sách phía trên."
+									"height": 225,
+									"text": "4.Admin thay đổi thông tin và không được bỏ trống bất kỳ trường dữ liệu nào gồm: \n      + Tên phim, mô tả, thời lượng, link trailer và chọn rạp phim mà phim chuẩn bị chỉnh sửa có thể chiếu.\n       + Ảnh: phải chọn ảnh JPG hoặc PNG\n       + Thể loại: (phải bao gồm kí tự ‘,’. Ví dụ: hành động, trinh thám => Có hai thể loại hành động và trinh thám hoặc tình cảm, => Có một thể loại là tình cảm)\n       + Ngày bắt đầu có thể lên lịch chiếu phim: hệ thống đã ẩn các ngày trước ngày hiện tại\n       + Ngày kết thúc: phải sau ngày bắt đầu.\n5.Admin nhấn nút “Cập nhật”.\n6.Hệ thống thông báo cập nhật thành công, phim mới cập nhật sẽ được cập nhật trên bảng danh sách phía trên."
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGG/8P9Ww6fYj4=",
+									"_parent": {
+										"$ref": "AAAAAAGG5L4dOKCsQ/M="
+									},
+									"font": "Arial;13;0",
+									"left": 176,
+									"top": 304,
+									"width": 337,
+									"height": 73,
+									"text": "3.Ở form bên dưới có nút “Sửa thông tin”, nhấn vào nút này form thông tin sẽ bỏ chế độ Read-only, đồng thời hiện thêm nút “Huỷ” và “Cập nhật”.\n"
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAGG/8SYBA6yINA=",
+									"_parent": {
+										"$ref": "AAAAAAGG5L4dOKCsQ/M="
+									},
+									"model": {
+										"$ref": "AAAAAAGG/8SYBA6xPus="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG/8SYBA6zXx4=",
+											"_parent": {
+												"$ref": "AAAAAAGG/8SYBA6yINA="
+											},
+											"model": {
+												"$ref": "AAAAAAGG/8SYBA6xPus="
+											},
+											"font": "Arial;13;0",
+											"left": 683,
+											"top": 304,
+											"width": 98,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG/8SYBA6yINA="
+											},
+											"edgePosition": 1,
+											"text": "editInfor(false)"
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG/8SYBA602+w=",
+											"_parent": {
+												"$ref": "AAAAAAGG/8SYBA6yINA="
+											},
+											"model": {
+												"$ref": "AAAAAAGG/8SYBA6xPus="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 732,
+											"top": 289,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAGG/8SYBA6yINA="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG/8SYBA614d4=",
+											"_parent": {
+												"$ref": "AAAAAAGG/8SYBA6yINA="
+											},
+											"model": {
+												"$ref": "AAAAAAGG/8SYBA6xPus="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 732,
+											"top": 324,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG/8SYBA6yINA="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAGG/8SYBQ62Vwg=",
+											"_parent": {
+												"$ref": "AAAAAAGG/8SYBA6yINA="
+											},
+											"model": {
+												"$ref": "AAAAAAGG/8SYBA6xPus="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 860,
+											"top": 320,
+											"width": 14,
+											"height": 25
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGG5L4/gaDnip8="
+									},
+									"tail": {
+										"$ref": "AAAAAAGG5L4sOqDHYDE="
+									},
+									"points": "604:320;860:320",
+									"nameLabel": {
+										"$ref": "AAAAAAGG/8SYBA6zXx4="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGG/8SYBA602+w="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGG/8SYBA614d4="
+									},
+									"activation": {
+										"$ref": "AAAAAAGG/8SYBQ62Vwg="
+									}
 								},
 								{
 									"_type": "UMLSeqMessageView",
@@ -632,7 +757,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 692,
-											"top": 421,
+											"top": 512,
 											"width": 80.9580078125,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -655,7 +780,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 732,
-											"top": 406,
+											"top": 497,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
@@ -676,7 +801,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 732,
-											"top": 441,
+											"top": 532,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
@@ -697,7 +822,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 860,
-											"top": 437,
+											"top": 528,
 											"width": 14,
 											"height": 25
 										}
@@ -709,7 +834,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG5L4sOqDHYDE="
 									},
-									"points": "604:437;860:437",
+									"points": "604:528;860:528",
 									"nameLabel": {
 										"$ref": "AAAAAAGG5MAm9KEsKOw="
 									},
@@ -744,6 +869,22 @@
 								"$ref": "AAAAAAGG5L4/gKDgYNo="
 							},
 							"messageSort": "asynchSignal"
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAGG/8SYBA6xPus=",
+							"_parent": {
+								"$ref": "AAAAAAGG5L4dOKCrL4U="
+							},
+							"name": "editInfor(false)",
+							"source": {
+								"$ref": "AAAAAAGG5L4sOqDA2rg="
+							},
+							"target": {
+								"$ref": "AAAAAAGG5L4/gKDgYNo="
+							},
+							"messageSort": "asynchSignal",
+							"arguments": "false"
 						},
 						{
 							"_type": "UMLMessage",
