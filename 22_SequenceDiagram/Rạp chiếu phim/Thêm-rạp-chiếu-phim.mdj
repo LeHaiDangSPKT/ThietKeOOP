@@ -651,9 +651,9 @@
 												"$ref": "AAAAAAGG+pdgi7X/FQ8="
 											},
 											"font": "Arial;13;0",
-											"left": 439,
+											"left": 359,
 											"top": 303,
-											"width": 75.1181640625,
+											"width": 234.09521484375,
 											"height": 13,
 											"alpha": -3.6733169779181196,
 											"distance": 19.72308292331602,
@@ -661,7 +661,7 @@
 												"$ref": "AAAAAAGG+pdgjLYAK7s="
 											},
 											"edgePosition": 1,
-											"text": "post(url, req)"
+											"text": "post(url, name, address, describe, room)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1642,107 +1642,6 @@
 									"linePart": {
 										"$ref": "AAAAAAGG+qQJrLabAZE="
 									}
-								},
-								{
-									"_type": "UMLCombinedFragmentView",
-									"_id": "AAAAAAGHAALNPMGJMd0=",
-									"_parent": {
-										"$ref": "AAAAAAGG87Q+RAxwF7A="
-									},
-									"model": {
-										"$ref": "AAAAAAGHAALNPMGHC6E="
-									},
-									"subViews": [
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGHAALNPMGKE7Y=",
-											"_parent": {
-												"$ref": "AAAAAAGHAALNPMGJMd0="
-											},
-											"font": "Arial;13;0",
-											"left": 107.578125,
-											"top": 109,
-											"width": 32.7890625,
-											"height": 13,
-											"text": "result"
-										},
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGHAALNPMGLKqA=",
-											"_parent": {
-												"$ref": "AAAAAAGHAALNPMGJMd0="
-											},
-											"font": "Arial;13;1",
-											"left": 77,
-											"top": 109,
-											"width": 25.578125,
-											"height": 13,
-											"text": "loop"
-										},
-										{
-											"_type": "UMLInteractionOperandCompartmentView",
-											"_id": "AAAAAAGHAALNPMGM8DA=",
-											"_parent": {
-												"$ref": "AAAAAAGHAALNPMGJMd0="
-											},
-											"model": {
-												"$ref": "AAAAAAGHAALNPMGHC6E="
-											},
-											"subViews": [
-												{
-													"_type": "UMLInteractionOperandView",
-													"_id": "AAAAAAGHAALNS8GYkn4=",
-													"_parent": {
-														"$ref": "AAAAAAGHAALNPMGM8DA="
-													},
-													"model": {
-														"$ref": "AAAAAAGHAALNPMGIrfY="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGHAALNS8GZaKA=",
-															"_parent": {
-																"$ref": "AAAAAAGHAALNS8GYkn4="
-															},
-															"visible": false,
-															"font": "Arial;13;0",
-															"left": 92,
-															"top": 142,
-															"height": 13
-														}
-													],
-													"font": "Arial;13;0",
-													"left": 72,
-													"top": 127,
-													"width": 1112,
-													"height": 43,
-													"guardLabel": {
-														"$ref": "AAAAAAGHAALNS8GZaKA="
-													}
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 72,
-											"top": 127,
-											"width": 1112,
-											"height": 43
-										}
-									],
-									"font": "Arial;13;0",
-									"left": 72,
-									"top": 104,
-									"width": 1112,
-									"height": 600,
-									"nameLabel": {
-										"$ref": "AAAAAAGHAALNPMGKE7Y="
-									},
-									"frameTypeLabel": {
-										"$ref": "AAAAAAGHAALNPMGLKqA="
-									},
-									"operandCompartment": {
-										"$ref": "AAAAAAGHAALNPMGM8DA="
-									}
 								}
 							],
 							"showSequenceNumber": false
@@ -1791,7 +1690,7 @@
 							"target": {
 								"$ref": "AAAAAAGG8/BDyHK6epU="
 							},
-							"arguments": "url, req"
+							"arguments": "url, name, address, describe, room"
 						},
 						{
 							"_type": "UMLMessage",
@@ -1952,27 +1851,6 @@
 							},
 							"isMultiInstance": false
 						}
-					],
-					"fragments": [
-						{
-							"_type": "UMLCombinedFragment",
-							"_id": "AAAAAAGHAALNPMGHC6E=",
-							"_parent": {
-								"$ref": "AAAAAAGG87Q+RAxvTRM="
-							},
-							"name": "result",
-							"interactionOperator": "loop",
-							"operands": [
-								{
-									"_type": "UMLInteractionOperand",
-									"_id": "AAAAAAGHAALNPMGIrfY=",
-									"_parent": {
-										"$ref": "AAAAAAGHAALNPMGHC6E="
-									},
-									"name": "Operand1"
-								}
-							]
-						}
 					]
 				}
 			],
@@ -1992,7 +1870,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -2036,7 +1915,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role7"
+					"name": "Role7",
+					"type": ""
 				}
 			]
 		}

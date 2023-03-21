@@ -657,17 +657,17 @@
 														"$ref": "AAAAAAGG5dkHqsxoQko="
 													},
 													"font": "Arial;13;0",
-													"left": 669,
-													"top": 336,
-													"width": 63.8193359375,
+													"left": 664,
+													"top": 335,
+													"width": 70.82080078125,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": -4.656891028985144,
+													"distance": 18.027756377319946,
 													"hostEdge": {
 														"$ref": "AAAAAAGG5dkHq8xphFo="
 													},
 													"edgePosition": 1,
-													"text": "bookTicket"
+													"text": "nextSection"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -681,7 +681,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 700,
-													"top": 321,
+													"top": 329,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -702,7 +702,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 700,
-													"top": 356,
+													"top": 364,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -723,7 +723,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 812,
-													"top": 352,
+													"top": 360,
 													"width": 14,
 													"height": 25
 												}
@@ -735,7 +735,7 @@
 											"tail": {
 												"$ref": "AAAAAAGG5dTtNsv/QA8="
 											},
-											"points": "588:352;812:352",
+											"points": "588:360;812:360",
 											"nameLabel": {
 												"$ref": "AAAAAAGG5dkHq8xq6qM="
 											},
@@ -777,7 +777,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGG5dTdWsvkUYE="
 									},
-									"name": "bookTicket",
+									"name": "nextSection",
 									"source": {
 										"$ref": "AAAAAAGG5dTtNcv4mWg="
 									},

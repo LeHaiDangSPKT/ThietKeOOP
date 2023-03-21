@@ -869,7 +869,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 192,
-											"top": 440,
+											"top": 448,
 											"width": 337,
 											"height": 41,
 											"text": "4.Hệ thống hiển thị thông tin suất chiếu tương ứng với rạp đã chọn."
@@ -895,7 +895,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 645,
-													"top": 442,
+													"top": 456,
 													"width": 158.72314453125,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -918,7 +918,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 724,
-													"top": 427,
+													"top": 441,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -939,7 +939,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 724,
-													"top": 462,
+													"top": 476,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -960,7 +960,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 836,
-													"top": 458,
+													"top": 472,
 													"width": 14,
 													"height": 25
 												}
@@ -972,7 +972,7 @@
 											"tail": {
 												"$ref": "AAAAAAGG5c8H7xRJyTs="
 											},
-											"points": "612:458;836:458",
+											"points": "612:472;836:472",
 											"nameLabel": {
 												"$ref": "AAAAAAGG5dJBixToLNU="
 											},
@@ -994,7 +994,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 192,
-											"top": 504,
+											"top": 536,
 											"width": 337,
 											"height": 96,
 											"text": "5.Admin nhấn biểu tượng thùng rác bên phải suất chiếu đã lên lịch.\n6.Hệ thống hiển thị form thông báo.\n7.Admin nhấn nút “Tôi chắc chắn”.\n8.Hệ thống thông báo “Đã xóa suất chiếu” và cập nhật lại giao diện."
@@ -1020,7 +1020,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 677,
-													"top": 528,
+													"top": 568,
 													"width": 94.65625,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -1043,7 +1043,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 724,
-													"top": 513,
+													"top": 553,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -1064,7 +1064,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 724,
-													"top": 548,
+													"top": 588,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -1085,7 +1085,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 836,
-													"top": 544,
+													"top": 584,
 													"width": 14,
 													"height": 25
 												}
@@ -1097,7 +1097,7 @@
 											"tail": {
 												"$ref": "AAAAAAGG5c8H7xRJyTs="
 											},
-											"points": "612:544;836:544",
+											"points": "612:584;836:584",
 											"nameLabel": {
 												"$ref": "AAAAAAGG5dODMBUH0tY="
 											},

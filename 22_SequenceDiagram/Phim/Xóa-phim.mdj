@@ -550,7 +550,7 @@
 												"$ref": "AAAAAAGG+pdgjLYAK7s="
 											},
 											"edgePosition": 1,
-											"text": "put(url, req)"
+											"text": "put(url, id)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1564,7 +1564,7 @@
 							"target": {
 								"$ref": "AAAAAAGG8/BDyHK6epU="
 							},
-							"arguments": "url, req"
+							"arguments": "url, id"
 						},
 						{
 							"_type": "UMLMessage",

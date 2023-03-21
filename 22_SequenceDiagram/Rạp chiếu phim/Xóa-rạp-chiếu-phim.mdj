@@ -550,7 +550,7 @@
 												"$ref": "AAAAAAGG+pdgjLYAK7s="
 											},
 											"edgePosition": 1,
-											"text": "put(url, req)"
+											"text": "put(url, id)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1564,7 +1564,7 @@
 							"target": {
 								"$ref": "AAAAAAGG8/BDyHK6epU="
 							},
-							"arguments": "url, req"
+							"arguments": "url, id"
 						},
 						{
 							"_type": "UMLMessage",
@@ -1744,7 +1744,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -1788,7 +1789,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role7"
+					"name": "Role7",
+					"type": ""
 				}
 			]
 		}
