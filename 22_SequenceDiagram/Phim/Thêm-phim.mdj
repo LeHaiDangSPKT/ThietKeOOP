@@ -1978,107 +1978,6 @@
 									"width": 78.39599609375,
 									"height": 142,
 									"text": "req: name, duration, startingDay, closingDay, trailer, img, describe, category, showtimes, theaterId, room"
-								},
-								{
-									"_type": "UMLCombinedFragmentView",
-									"_id": "AAAAAAGHBXJm0KsYTio=",
-									"_parent": {
-										"$ref": "AAAAAAGG87Q+RAxwF7A="
-									},
-									"model": {
-										"$ref": "AAAAAAGHBXJm0KsWUcc="
-									},
-									"subViews": [
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGHBXJm0KsZ6no=",
-											"_parent": {
-												"$ref": "AAAAAAGHBXJm0KsYTio="
-											},
-											"font": "Arial;13;0",
-											"left": 99.578125,
-											"top": 141,
-											"width": 32.7890625,
-											"height": 13,
-											"text": "result"
-										},
-										{
-											"_type": "LabelView",
-											"_id": "AAAAAAGHBXJm0KsaBAc=",
-											"_parent": {
-												"$ref": "AAAAAAGHBXJm0KsYTio="
-											},
-											"font": "Arial;13;1",
-											"left": 69,
-											"top": 141,
-											"width": 25.578125,
-											"height": 13,
-											"text": "loop"
-										},
-										{
-											"_type": "UMLInteractionOperandCompartmentView",
-											"_id": "AAAAAAGHBXJm0Ksb5Uk=",
-											"_parent": {
-												"$ref": "AAAAAAGHBXJm0KsYTio="
-											},
-											"model": {
-												"$ref": "AAAAAAGHBXJm0KsWUcc="
-											},
-											"subViews": [
-												{
-													"_type": "UMLInteractionOperandView",
-													"_id": "AAAAAAGHBXJm46snK2s=",
-													"_parent": {
-														"$ref": "AAAAAAGHBXJm0Ksb5Uk="
-													},
-													"model": {
-														"$ref": "AAAAAAGHBXJm0KsXIzw="
-													},
-													"subViews": [
-														{
-															"_type": "LabelView",
-															"_id": "AAAAAAGHBXJm46so3g0=",
-															"_parent": {
-																"$ref": "AAAAAAGHBXJm46snK2s="
-															},
-															"visible": false,
-															"font": "Arial;13;0",
-															"left": 84,
-															"top": 174,
-															"height": 13
-														}
-													],
-													"font": "Arial;13;0",
-													"left": 64,
-													"top": 159,
-													"width": 1112,
-													"height": 43,
-													"guardLabel": {
-														"$ref": "AAAAAAGHBXJm46so3g0="
-													}
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 64,
-											"top": 159,
-											"width": 1112,
-											"height": 43
-										}
-									],
-									"font": "Arial;13;0",
-									"left": 64,
-									"top": 136,
-									"width": 1112,
-									"height": 536,
-									"nameLabel": {
-										"$ref": "AAAAAAGHBXJm0KsZ6no="
-									},
-									"frameTypeLabel": {
-										"$ref": "AAAAAAGHBXJm0KsaBAc="
-									},
-									"operandCompartment": {
-										"$ref": "AAAAAAGHBXJm0Ksb5Uk="
-									}
 								}
 							],
 							"showSequenceNumber": false
@@ -2333,25 +2232,6 @@
 									"_id": "AAAAAAGG+qvKRbchxxA=",
 									"_parent": {
 										"$ref": "AAAAAAGG+qvKRbcgDpM="
-									},
-									"name": "Operand1"
-								}
-							]
-						},
-						{
-							"_type": "UMLCombinedFragment",
-							"_id": "AAAAAAGHBXJm0KsWUcc=",
-							"_parent": {
-								"$ref": "AAAAAAGG87Q+RAxvTRM="
-							},
-							"name": "result",
-							"interactionOperator": "loop",
-							"operands": [
-								{
-									"_type": "UMLInteractionOperand",
-									"_id": "AAAAAAGHBXJm0KsXIzw=",
-									"_parent": {
-										"$ref": "AAAAAAGHBXJm0KsWUcc="
 									},
 									"name": "Operand1"
 								}
