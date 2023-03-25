@@ -88,7 +88,7 @@
 													"top": 47,
 													"width": 90.18359375,
 													"height": 13,
-													"text": "Invoice"
+													"text": ":Invoice"
 												},
 												{
 													"_type": "LabelView",
@@ -330,7 +330,7 @@
 													"top": 47,
 													"width": 62.736328125,
 													"height": 13,
-													"text": "Axios"
+													"text": ":Axios"
 												},
 												{
 													"_type": "LabelView",
@@ -444,9 +444,9 @@
 													"font": "Arial;13;1",
 													"left": 565,
 													"top": 47,
-													"width": 71.876953125,
+													"width": 76.2060546875,
 													"height": 13,
-													"text": "ToastUtils"
+													"text": ":ToastUtils"
 												},
 												{
 													"_type": "LabelView",
@@ -477,7 +477,7 @@
 											"font": "Arial;13;0",
 											"left": 560,
 											"top": 40,
-											"width": 81.876953125,
+											"width": 86.2060546875,
 											"height": 40,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGG+lAzjaMuTRg="
@@ -502,7 +502,7 @@
 												"$ref": "AAAAAAGG+lAzjKMrXlE="
 											},
 											"font": "Arial;13;0",
-											"left": 601,
+											"left": 603,
 											"top": 80,
 											"width": 1,
 											"height": 585
@@ -511,7 +511,7 @@
 									"font": "Arial;13;0",
 									"left": 560,
 									"top": 40,
-									"width": 81.876953125,
+									"width": 86.2060546875,
 									"height": 625,
 									"nameCompartment": {
 										"$ref": "AAAAAAGG+lAzjaMtqWo="
@@ -1430,7 +1430,7 @@
 												"$ref": "AAAAAAGG+l2nGqQxUes="
 											},
 											"font": "Arial;13;0",
-											"left": 629,
+											"left": 630,
 											"top": 552,
 											"width": 88.84814453125,
 											"height": 13,
@@ -1453,7 +1453,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 680,
+											"left": 681,
 											"top": 563,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1474,7 +1474,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 681,
+											"left": 682,
 											"top": 528,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -1494,7 +1494,7 @@
 												"$ref": "AAAAAAGG+l2nGqQxUes="
 											},
 											"font": "Arial;13;0",
-											"left": 594,
+											"left": 596,
 											"top": 544,
 											"width": 14,
 											"height": 29
@@ -1507,7 +1507,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG8/BDyXLBOTc="
 									},
-									"points": "756:544;607:544",
+									"points": "756:544;609:544",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+l2nGqQzhdw="
 									},
@@ -1541,7 +1541,7 @@
 												"$ref": "AAAAAAGG+pfWtLYZJX8="
 											},
 											"font": "Arial;13;0",
-											"left": 391,
+											"left": 392,
 											"top": 572,
 											"width": 35.41357421875,
 											"height": 13,
@@ -1564,7 +1564,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 408,
+											"left": 409,
 											"top": 587,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1585,7 +1585,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 409,
+											"left": 410,
 											"top": 552,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -1619,7 +1619,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+lAzjaMyw5g="
 									},
-									"points": "594:568;224:568",
+									"points": "596:568;224:568",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+pfWtLYbqyk="
 									},
@@ -1675,7 +1675,7 @@
 													"top": 47,
 													"width": 112.552734375,
 													"height": 13,
-													"text": "UserController"
+													"text": ":UserController"
 												},
 												{
 													"_type": "LabelView",
@@ -1791,7 +1791,7 @@
 													"top": 47,
 													"width": 74.2763671875,
 													"height": 13,
-													"text": "BillModel"
+													"text": ":BillModel"
 												},
 												{
 													"_type": "LabelView",
@@ -1907,7 +1907,7 @@
 													"top": 47,
 													"width": 62.736328125,
 													"height": 13,
-													"text": "Paypal"
+													"text": ":Paypal"
 												},
 												{
 													"_type": "LabelView",
@@ -2155,7 +2155,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": "Invoice",
+							"name": ":Invoice",
 							"represent": {
 								"$ref": "AAAAAAGG87VyVwzaRjQ="
 							},
@@ -2175,7 +2175,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": "Axios",
+							"name": ":Axios",
 							"represent": {
 								"$ref": "AAAAAAGG8/BDyHK5zH4="
 							},
@@ -2187,7 +2187,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": "ToastUtils",
+							"name": ":ToastUtils",
 							"represent": {
 								"$ref": "AAAAAAGG+lAzjKMqbvc="
 							},
@@ -2199,7 +2199,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": "UserController",
+							"name": ":UserController",
 							"represent": {
 								"$ref": "AAAAAAGG+phQPbYxecw="
 							},
@@ -2211,7 +2211,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": "BillModel",
+							"name": ":BillModel",
 							"represent": {
 								"$ref": "AAAAAAGG+qQJq7aTj4s="
 							},
@@ -2223,7 +2223,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": "Paypal",
+							"name": ":Paypal",
 							"represent": {
 								"$ref": "AAAAAAGHBWbh8iKX9P4="
 							},
@@ -2248,7 +2248,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -2283,7 +2284,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role6"
+					"name": "Role6",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -2291,7 +2293,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role7"
+					"name": "Role7",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -2299,7 +2302,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGG87Q+RAxuCmg="
 					},
-					"name": "Role8"
+					"name": "Role8",
+					"type": ""
 				}
 			]
 		}
