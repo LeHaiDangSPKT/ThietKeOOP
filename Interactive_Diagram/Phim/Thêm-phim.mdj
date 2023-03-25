@@ -1882,9 +1882,9 @@
 												"$ref": "AAAAAAGG+qvKRbcixMo="
 											},
 											"font": "Arial;13;0",
-											"left": 53.07177734375,
+											"left": 51.61181640625,
 											"top": 109,
-											"width": 98.90625,
+											"width": 92.0634765625,
 											"height": 13,
 											"text": "feature = confirm"
 										},
@@ -1897,7 +1897,7 @@
 											"font": "Arial;13;1",
 											"left": 29,
 											"top": 109,
-											"width": 19.07177734375,
+											"width": 17.61181640625,
 											"height": 13,
 											"text": "opt"
 										},
@@ -1996,9 +1996,9 @@
 												"$ref": "AAAAAAGHBXJm0KsYTio="
 											},
 											"font": "Arial;13;0",
-											"left": 99.578125,
+											"left": 98.11181640625,
 											"top": 141,
-											"width": 32.7890625,
+											"width": 29.8818359375,
 											"height": 13,
 											"text": "result"
 										},
@@ -2011,7 +2011,7 @@
 											"font": "Arial;13;1",
 											"left": 69,
 											"top": 141,
-											"width": 25.578125,
+											"width": 24.11181640625,
 											"height": 13,
 											"text": "loop"
 										},
@@ -2910,13 +2910,13 @@
 												"$ref": "AAAAAAGHF+FY9FCSOpQ="
 											},
 											"font": "Arial;13;0",
-											"left": 166.41552734375,
+											"left": 124.146484375,
 											"top": 159,
-											"width": 62.1689453125,
+											"width": 146.70703125,
 											"height": 13,
 											"alpha": -4.514994061560532,
 											"distance": 15.297058540778355,
-											"text": "handleAdd"
+											"text": "handleAdd(feature, state)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -4354,13 +4354,13 @@
 												"$ref": "AAAAAAGHF+eOUotMNlU="
 											},
 											"font": "Arial;13;0",
-											"left": 327.224609375,
-											"top": 80,
-											"width": 136.55078125,
+											"left": 289.965087890625,
+											"top": 72,
+											"width": 195.06982421875,
 											"height": 13,
-											"alpha": 0.3906070022775726,
-											"distance": 91.92388155425118,
-											"text": "2. checkSymbolToArray"
+											"alpha": 0.5093010887178825,
+											"distance": 88.19297024139736,
+											"text": "2. checkSymbolToArray(category)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -4672,13 +4672,13 @@
 												"$ref": "AAAAAAGHF+fXfJZNswo="
 											},
 											"font": "Arial;13;0",
-											"left": 303.510498046875,
+											"left": 319.42822265625,
 											"top": 280,
-											"width": 59.97900390625,
+											"width": 88.1435546875,
 											"height": 13,
-											"alpha": 0.06656814165193733,
-											"distance": 30.066592756745816,
-											"text": "3. post"
+											"alpha": 0.033320990328858546,
+											"distance": 60.03332407921454,
+											"text": "3. post(url, req)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -5092,13 +5092,13 @@
 												"$ref": "AAAAAAGHF+pqgcmCKBo="
 											},
 											"font": "Arial;13;0",
-											"left": 368.734130859375,
-											"top": 363,
-											"width": 71.53173828125,
+											"left": 335.27734375,
+											"top": 352,
+											"width": 152.4453125,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 10,
-											"text": "3.1. addFilm"
+											"alpha": 1.2490453438268871,
+											"distance": 22.135943621178654,
+											"text": "3.1. addFilm (req,res,next)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -6487,13 +6487,13 @@
 												"$ref": "AAAAAAGHF+3BuwVqZ7M="
 											},
 											"font": "Arial;13;0",
-											"left": 295.786865234375,
+											"left": 295.398681640625,
 											"top": 440,
-											"width": 61.42626953125,
+											"width": 80.20263671875,
 											"height": 13,
-											"alpha": 0.1607626979212196,
-											"distance": 37.48332962798263,
-											"text": "3.2. create"
+											"alpha": 0.12970250927487714,
+											"distance": 46.389654018972806,
+											"text": "3.2. create(id)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -6549,6 +6549,31 @@
 									"propertyLabel": {
 										"$ref": "AAAAAAGHF+3BuwVujeA="
 									}
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGHGACOdF5zJS4=",
+									"_parent": {
+										"$ref": "AAAAAAGHF95W8Uu02N0="
+									},
+									"font": "Arial;13;0",
+									"left": 568,
+									"top": 176,
+									"width": 60,
+									"height": 15
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGHGACZ8WFG+xo=",
+									"_parent": {
+										"$ref": "AAAAAAGHF95W8Uu02N0="
+									},
+									"font": "Arial;13;0",
+									"left": 488,
+									"top": 168,
+									"width": 78.39599609375,
+									"height": 168,
+									"text": "req: name, duration, startingDay, closingDay, trailer, img, describe, category, showtimes, theaterId, room"
 								}
 							],
 							"sequenceNumbering": "custom"
@@ -6561,7 +6586,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "handleAdd",
+							"name": "handleAdd(feature, state)",
 							"source": {
 								"$ref": "AAAAAAGHF97ptUvo9To="
 							},
@@ -6595,7 +6620,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "2. checkSymbolToArray",
+							"name": "2. checkSymbolToArray(category)",
 							"source": {
 								"$ref": "AAAAAAGHF96lAEvIZtc="
 							},
@@ -6612,7 +6637,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "3. post",
+							"name": "3. post(url, req)",
 							"source": {
 								"$ref": "AAAAAAGHF96lAEvIZtc="
 							},
@@ -6629,7 +6654,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "3.1. addFilm",
+							"name": "3.1. addFilm (req,res,next)",
 							"source": {
 								"$ref": "AAAAAAGHF+Y29nVXpy4="
 							},
@@ -6689,7 +6714,8 @@
 							},
 							"connector": {
 								"$ref": "AAAAAAGHF+3BuQVcdjs="
-							}
+							},
+							"arguments": "id"
 						}
 					],
 					"participants": [
