@@ -2916,7 +2916,7 @@
 											"height": 13,
 											"alpha": -4.514994061560532,
 											"distance": 15.297058540778355,
-											"text": "them(chucNang, trangThai)"
+											"text": "chinhSua"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -4678,7 +4678,7 @@
 											"height": 13,
 											"alpha": 0.033320990328858546,
 											"distance": 60.03332407921454,
-											"text": "3. post(url, req)"
+											"text": "3. put(url, req)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -5092,13 +5092,13 @@
 												"$ref": "AAAAAAGHF+pqgcmCKBo="
 											},
 											"font": "Arial;13;0",
-											"left": 330.94189453125,
+											"left": 303.44287109375,
 											"top": 352,
-											"width": 161.1162109375,
+											"width": 234.1142578125,
 											"height": 13,
-											"alpha": 1.2490453438268871,
-											"distance": 22.135943621178654,
-											"text": "3.1. themPhim(req,res,next)"
+											"alpha": 0.9197193040592377,
+											"distance": 26.40075756488817,
+											"text": "3.1. chinhSuaPhimTheoMa(req,res,next)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -6067,13 +6067,13 @@
 												"$ref": "AAAAAAGHF+zN6e8kCOk="
 											},
 											"font": "Arial;13;0",
-											"left": 775.280517578125,
+											"left": 775.070556640625,
 											"top": 336,
-											"width": 74.43896484375,
+											"width": 122.85888671875,
 											"height": 13,
-											"alpha": 0.05549849498930847,
-											"distance": 54.08326913195984,
-											"text": "3.1.1.1. luu"
+											"alpha": 0.03844258509750569,
+											"distance": 78.05767098754612,
+											"text": "3.1.1.1. chinhSuaMot"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -6573,7 +6573,7 @@
 									"top": 168,
 									"width": 90.21533203125,
 									"height": 168,
-									"text": "req: tenPhim, thoiLuong, ngayBatDau, ngayKetThuc, gioiThieu, hinhAnh, moTa, theLoai, suatChieu, maRapPhim, phong"
+									"text": "req: maPhim, tenPhim, thoiLuong, ngayBatDau, ngayKetThuc, gioiThieu, hinhAnh, moTa, theLoai, maRapPhim"
 								},
 								{
 									"_type": "UMLConnectorView",
@@ -6822,7 +6822,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "them",
+							"name": "chinhSua",
 							"source": {
 								"$ref": "AAAAAAGHF97ptUvo9To="
 							},
@@ -6831,8 +6831,7 @@
 							},
 							"connector": {
 								"$ref": "AAAAAAGHF+DcVE8wDPg="
-							},
-							"arguments": "chucNang, trangThai"
+							}
 						},
 						{
 							"_type": "UMLMessage",
@@ -6875,7 +6874,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "3. post(url, req)",
+							"name": "3. put",
 							"source": {
 								"$ref": "AAAAAAGHF96lAEvIZtc="
 							},
@@ -6884,7 +6883,8 @@
 							},
 							"connector": {
 								"$ref": "AAAAAAGHF+fXe5Y/xNM="
-							}
+							},
+							"arguments": "url, req"
 						},
 						{
 							"_type": "UMLMessage",
@@ -6892,7 +6892,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "3.1. themPhim",
+							"name": "3.1. chinhSuaPhimTheoMa",
 							"source": {
 								"$ref": "AAAAAAGHF+Y29nVXpy4="
 							},
@@ -6927,7 +6927,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHF95W8UuzYE0="
 							},
-							"name": "3.1.1.1. luu",
+							"name": "3.1.1.1. chinhSuaMot",
 							"source": {
 								"$ref": "AAAAAAGHF+q6KM27we0="
 							},
