@@ -88,7 +88,7 @@
 													"top": 47,
 													"width": 94.5126953125,
 													"height": 13,
-													"text": ":ManagerFilm"
+													"text": ":QuanLyPhim"
 												},
 												{
 													"_type": "LabelView",
@@ -651,7 +651,7 @@
 												"$ref": "AAAAAAGG+pmRYLZ5iuA="
 											},
 											"font": "Arial;13;0",
-											"left": 612,
+											"left": 617,
 											"top": 247,
 											"width": 182.79345703125,
 											"height": 13,
@@ -674,7 +674,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 705,
+											"left": 710,
 											"top": 241,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -695,7 +695,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 705,
+											"left": 710,
 											"top": 276,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -715,7 +715,7 @@
 												"$ref": "AAAAAAGG+pmRYLZ5iuA="
 											},
 											"font": "Arial;13;0",
-											"left": 808,
+											"left": 818,
 											"top": 272,
 											"width": 14,
 											"height": 145
@@ -728,7 +728,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG8/BDyXLBOTc="
 									},
-									"points": "602:272;808:272",
+									"points": "602:272;818:272",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+pmRYLZ7goQ="
 									},
@@ -762,7 +762,7 @@
 												"$ref": "AAAAAAGG+qRt+ra1U8A="
 											},
 											"font": "Arial;13;0",
-											"left": 868,
+											"left": 873,
 											"top": 296,
 											"width": 75.8798828125,
 											"height": 13,
@@ -785,7 +785,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 905,
+											"left": 910,
 											"top": 281,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -806,7 +806,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 905,
+											"left": 910,
 											"top": 316,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -839,7 +839,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+phQPbY5V/g="
 									},
-									"points": "821:312;989:312",
+									"points": "831:312;989:312",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+qRt+ra3n88="
 									},
@@ -873,7 +873,7 @@
 												"$ref": "AAAAAAGG+qfM17bpWoI="
 											},
 											"font": "Arial;13;0",
-											"left": 881,
+											"left": 886,
 											"top": 396,
 											"width": 53.47900390625,
 											"height": 13,
@@ -896,7 +896,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 907,
+											"left": 912,
 											"top": 411,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -917,7 +917,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 908,
+											"left": 913,
 											"top": 376,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -938,7 +938,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 808,
+											"left": 818,
 											"top": 392,
 											"width": 14,
 											"height": 25
@@ -951,7 +951,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+qQJrLabAZE="
 									},
-									"points": "996:392;821:392",
+									"points": "996:392;831:392",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+qfM17brG5k="
 									},
@@ -985,7 +985,7 @@
 												"$ref": "AAAAAAGG+qrMG7cDjLc="
 											},
 											"font": "Arial;13;0",
-											"left": 698,
+											"left": 703,
 											"top": 420,
 											"width": 18.05908203125,
 											"height": 13,
@@ -1008,7 +1008,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 707,
+											"left": 712,
 											"top": 435,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1029,7 +1029,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 708,
+											"left": 713,
 											"top": 400,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -1063,7 +1063,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+phQPbY5V/g="
 									},
-									"points": "815:416;602:416",
+									"points": "825:416;602:416",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+qrMG7cFq8I="
 									},
@@ -1340,9 +1340,9 @@
 													"font": "Arial;13;1",
 													"left": 757,
 													"top": 47,
-													"width": 116.8818359375,
+													"width": 136.3818359375,
 													"height": 13,
-													"text": ":AdminController"
+													"text": ":BoDieuKhienAdmin"
 												},
 												{
 													"_type": "LabelView",
@@ -1373,7 +1373,7 @@
 											"font": "Arial;13;0",
 											"left": 752,
 											"top": 40,
-											"width": 126.8818359375,
+											"width": 146.3818359375,
 											"height": 40,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGG+phQPbY1qOM="
@@ -1398,7 +1398,7 @@
 												"$ref": "AAAAAAGG+phQPbYy2JE="
 											},
 											"font": "Arial;13;0",
-											"left": 815,
+											"left": 825,
 											"top": 80,
 											"width": 1,
 											"height": 585
@@ -1407,7 +1407,7 @@
 									"font": "Arial;13;0",
 									"left": 752,
 									"top": 40,
-									"width": 126.8818359375,
+									"width": 146.3818359375,
 									"height": 625,
 									"nameCompartment": {
 										"$ref": "AAAAAAGG+phQPbY0p4o="
@@ -1458,7 +1458,7 @@
 													"top": 47,
 													"width": 78.60546875,
 													"height": 13,
-													"text": ":FilmModel"
+													"text": ":Phim"
 												},
 												{
 													"_type": "LabelView",
@@ -1663,7 +1663,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":ManagerFilm",
+							"name": ":QuanLyPhim",
 							"represent": {
 								"$ref": "AAAAAAGG87VyVwzaRjQ="
 							},
@@ -1707,7 +1707,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":AdminController",
+							"name": ":BoDieuKhienAdmin",
 							"represent": {
 								"$ref": "AAAAAAGG+phQPbYxecw="
 							},
@@ -1719,7 +1719,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":FilmModel",
+							"name": ":Phim",
 							"represent": {
 								"$ref": "AAAAAAGG+qQJq7aTj4s="
 							},

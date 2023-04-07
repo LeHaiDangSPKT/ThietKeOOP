@@ -88,7 +88,7 @@
 													"top": 47,
 													"width": 90.18359375,
 													"height": 13,
-													"text": ":BookTicket"
+													"text": ":DatVe"
 												},
 												{
 													"_type": "LabelView",
@@ -446,7 +446,7 @@
 													"top": 47,
 													"width": 74.2890625,
 													"height": 13,
-													"text": ":BookSeat"
+													"text": ":ChonGhe"
 												},
 												{
 													"_type": "LabelView",
@@ -1215,7 +1215,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 608,
+													"left": 544,
 													"height": 13
 												},
 												{
@@ -1225,11 +1225,11 @@
 														"$ref": "AAAAAAGG+phQPbY0p4o="
 													},
 													"font": "Arial;13;1",
-													"left": 1037,
+													"left": 1005,
 													"top": 47,
-													"width": 112.552734375,
+													"width": 165.974609375,
 													"height": 13,
-													"text": ":UserController"
+													"text": ":BoDieuKhienNguoiDung"
 												},
 												{
 													"_type": "LabelView",
@@ -1239,7 +1239,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 608,
+													"left": 544,
 													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
@@ -1252,15 +1252,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 608,
+													"left": 544,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 1032,
+											"left": 1000,
 											"top": 40,
-											"width": 122.552734375,
+											"width": 175.974609375,
 											"height": 40,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGG+phQPbY1qOM="
@@ -1285,16 +1285,16 @@
 												"$ref": "AAAAAAGG+phQPbYy2JE="
 											},
 											"font": "Arial;13;0",
-											"left": 1093,
+											"left": 1088,
 											"top": 80,
 											"width": 1,
 											"height": 625
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 1032,
+									"left": 1000,
 									"top": 40,
-									"width": 122.552734375,
+									"width": 175.974609375,
 									"height": 665,
 									"nameCompartment": {
 										"$ref": "AAAAAAGG+phQPbY0p4o="
@@ -1331,7 +1331,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 560,
+													"left": 544,
 													"height": 13
 												},
 												{
@@ -1341,11 +1341,11 @@
 														"$ref": "AAAAAAGG+qQJrLaWZUg="
 													},
 													"font": "Arial;13;1",
-													"left": 1213,
+													"left": 1205,
 													"top": 47,
 													"width": 74.2763671875,
 													"height": 13,
-													"text": ":BillModel"
+													"text": ":HoaDon"
 												},
 												{
 													"_type": "LabelView",
@@ -1355,7 +1355,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 560,
+													"left": 544,
 													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
@@ -1368,13 +1368,13 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 560,
+													"left": 544,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 1208,
+											"left": 1200,
 											"top": 40,
 											"width": 84.2763671875,
 											"height": 40,
@@ -1401,14 +1401,14 @@
 												"$ref": "AAAAAAGG+qQJrLaUOyE="
 											},
 											"font": "Arial;13;0",
-											"left": 1250,
+											"left": 1242,
 											"top": 80,
 											"width": 1,
 											"height": 625
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 1208,
+									"left": 1200,
 									"top": 40,
 									"width": 84.2763671875,
 									"height": 665,
@@ -1461,7 +1461,7 @@
 													"top": 47,
 													"width": 98.17529296875,
 													"height": 13,
-													"text": ":BookService"
+													"text": ":DatMon"
 												},
 												{
 													"_type": "LabelView",
@@ -1693,7 +1693,7 @@
 													"top": 47,
 													"width": 62.736328125,
 													"height": 13,
-													"text": ":Main"
+													"text": ":Chinh"
 												},
 												{
 													"_type": "LabelView",
@@ -2938,7 +2938,7 @@
 												"$ref": "AAAAAAGHBV3nH0K1rS0="
 											},
 											"font": "Arial;13;0",
-											"left": 961,
+											"left": 958,
 											"top": 584,
 											"width": 103.33349609375,
 											"height": 13,
@@ -2961,7 +2961,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1012,
+											"left": 1009,
 											"top": 569,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -2982,7 +2982,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1012,
+											"left": 1009,
 											"top": 604,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -3002,7 +3002,7 @@
 												"$ref": "AAAAAAGHBV3nH0K1rS0="
 											},
 											"font": "Arial;13;0",
-											"left": 1086,
+											"left": 1081,
 											"top": 600,
 											"width": 14,
 											"height": 49
@@ -3015,7 +3015,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG8/BDyXLBOTc="
 									},
-									"points": "938:600;1086:600",
+									"points": "938:600;1081:600",
 									"nameLabel": {
 										"$ref": "AAAAAAGHBV3nH0K3cF4="
 									},
@@ -3049,7 +3049,7 @@
 												"$ref": "AAAAAAGHBV7HwELMZck="
 											},
 											"font": "Arial;13;0",
-											"left": 1142,
+											"left": 1135,
 											"top": 592,
 											"width": 59.97900390625,
 											"height": 13,
@@ -3072,7 +3072,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1171,
+											"left": 1164,
 											"top": 577,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -3093,7 +3093,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1171,
+											"left": 1164,
 											"top": 612,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -3113,7 +3113,7 @@
 												"$ref": "AAAAAAGHBV7HwELMZck="
 											},
 											"font": "Arial;13;0",
-											"left": 1243,
+											"left": 1235,
 											"top": 608,
 											"width": 14,
 											"height": 29
@@ -3126,7 +3126,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+phQPbY5V/g="
 									},
-									"points": "1099:608;1243:608",
+									"points": "1094:608;1235:608",
 									"nameLabel": {
 										"$ref": "AAAAAAGHBV7HwELOIzw="
 									},
@@ -3160,7 +3160,7 @@
 												"$ref": "AAAAAAGHBV7+uELjHWk="
 											},
 											"font": "Arial;13;0",
-											"left": 1161,
+											"left": 1154,
 											"top": 636,
 											"width": 18.05908203125,
 											"height": 13,
@@ -3183,7 +3183,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1170,
+											"left": 1163,
 											"top": 651,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -3204,7 +3204,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1171,
+											"left": 1164,
 											"top": 616,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -3225,7 +3225,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1086,
+											"left": 1081,
 											"top": 632,
 											"width": 14,
 											"height": 25
@@ -3238,7 +3238,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+qQJrLabAZE="
 									},
-									"points": "1243:632;1099:632",
+									"points": "1235:632;1094:632",
 									"nameLabel": {
 										"$ref": "AAAAAAGHBV7+uELlgHg="
 									},
@@ -3272,7 +3272,7 @@
 												"$ref": "AAAAAAGHBV8nVEL7AKY="
 											},
 											"font": "Arial;13;0",
-											"left": 1005,
+											"left": 1003,
 											"top": 652,
 											"width": 18.05908203125,
 											"height": 13,
@@ -3295,7 +3295,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1014,
+											"left": 1012,
 											"top": 667,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -3316,7 +3316,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 1015,
+											"left": 1013,
 											"top": 632,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -3350,7 +3350,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+phQPbY5V/g="
 									},
-									"points": "1093:648;938:648",
+									"points": "1088:648;938:648",
 									"nameLabel": {
 										"$ref": "AAAAAAGHBV8nVEL9pc8="
 									},
@@ -4240,7 +4240,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":BookTicket",
+							"name": ":DatVe",
 							"represent": {
 								"$ref": "AAAAAAGG87VyVwzaRjQ="
 							},
@@ -4272,7 +4272,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":BookSeat",
+							"name": ":ChonGhe",
 							"represent": {
 								"$ref": "AAAAAAGG+lAzjKMqbvc="
 							},
@@ -4284,7 +4284,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":UserController",
+							"name": ":BoDieuKhienNguoiDung",
 							"represent": {
 								"$ref": "AAAAAAGG+phQPbYxecw="
 							},
@@ -4296,7 +4296,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":BillModel",
+							"name": ":HoaDon",
 							"represent": {
 								"$ref": "AAAAAAGG+qQJq7aTj4s="
 							},
@@ -4308,7 +4308,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":BookService",
+							"name": ":DatMon",
 							"represent": {
 								"$ref": "AAAAAAGHBTXREz5at6U="
 							},
@@ -4332,7 +4332,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": ":Main",
+							"name": ":Chinh",
 							"represent": {
 								"$ref": "AAAAAAGHBT7buj/cOrs="
 							},
