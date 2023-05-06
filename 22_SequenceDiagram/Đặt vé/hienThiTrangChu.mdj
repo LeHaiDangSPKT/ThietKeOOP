@@ -207,7 +207,7 @@
 												"$ref": "AAAAAAGG87Xj1Q0d6ww="
 											},
 											"edgePosition": 1,
-											"text": "them(xacNhan, dung)"
+											"text": "hienThiTrangChu"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1313,14 +1313,13 @@
 							"_parent": {
 								"$ref": "AAAAAAGG87Q+RAxvTRM="
 							},
-							"name": "them",
+							"name": "hienThiTrangChu",
 							"source": {
 								"$ref": "AAAAAAGG87Xj1A0au5A="
 							},
 							"target": {
 								"$ref": "AAAAAAGG87VyVwzbHRI="
-							},
-							"arguments": "xacNhan, dung"
+							}
 						},
 						{
 							"_type": "UMLMessage",

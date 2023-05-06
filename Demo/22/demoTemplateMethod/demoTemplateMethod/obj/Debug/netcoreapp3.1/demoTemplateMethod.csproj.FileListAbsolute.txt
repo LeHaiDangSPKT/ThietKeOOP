@@ -1,0 +1,13 @@
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\bin\Debug\netcoreapp3.1\demoTemplateMethod.exe
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\bin\Debug\netcoreapp3.1\demoTemplateMethod.deps.json
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\bin\Debug\netcoreapp3.1\demoTemplateMethod.runtimeconfig.json
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\bin\Debug\netcoreapp3.1\demoTemplateMethod.runtimeconfig.dev.json
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\bin\Debug\netcoreapp3.1\demoTemplateMethod.dll
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\bin\Debug\netcoreapp3.1\demoTemplateMethod.pdb
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\obj\Debug\netcoreapp3.1\demoTemplateMethod.AssemblyInfoInputs.cache
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\obj\Debug\netcoreapp3.1\demoTemplateMethod.AssemblyInfo.cs
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\obj\Debug\netcoreapp3.1\demoTemplateMethod.csproj.CoreCompileInputs.cache
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\obj\Debug\netcoreapp3.1\demoTemplateMethod.dll
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\obj\Debug\netcoreapp3.1\demoTemplateMethod.pdb
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\obj\Debug\netcoreapp3.1\demoTemplateMethod.genruntimeconfig.cache
+D:\ChuongTrinhHoc\ThietKeOOP\ThietKeOOP\Demo\demoTemplateMethod\demoTemplateMethod\obj\Debug\netcoreapp3.1\demoTemplateMethod.csproj.AssemblyReference.cache
